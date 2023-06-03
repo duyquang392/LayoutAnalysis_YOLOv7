@@ -1,7 +1,5 @@
 # LayoutAnalysis_YOLOv7
 
-## Traning
-
 ## Installation
 
 ``` shell
